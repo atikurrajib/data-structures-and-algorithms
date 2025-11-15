@@ -1,4 +1,4 @@
-# Algorithms & Data Structures
+# Data Structures & Algorithms
 
 A comprehensive collection of implementations, notes, and problem solutions for core computer science concepts. This repository serves as a personal knowledge base and a resource for anyone learning about fundamental algorithms and data structures.
 
