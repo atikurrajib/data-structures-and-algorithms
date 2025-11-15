@@ -16,7 +16,7 @@ The repository is structured into four main courses, each focusing on a key area
 *   **Module 3:** Dynamic Programming
 
 ### **Course 3: Data Structures**
-*   **Module 1:** Basic Data Structures (e.g., Arrays, Linked Lists, Stacks, Queues)
+*   **Module 1:** Basic Data Structures
 *   **Module 2:** Priority Queues & Disjoint Sets
 *   **Module 3:** Hash Tables
 *   **Module 4:** Binary Search Trees
