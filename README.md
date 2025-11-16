@@ -29,7 +29,7 @@ The repository is structured into four main courses, each focusing on a key area
 ## 🚀 Getting Started
 
 ### Prerequisites
-*   A good understanding of at least one programming language (e.g., Python, C++, Java)
+*   A good understanding of Python programming language.
 *   Basic knowledge of complexity analysis (Big O notation)
 
 ### Usage
