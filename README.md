@@ -36,5 +36,5 @@ The repository is structured into four main courses, each focusing on a key area
 Clone this repository to explore the code and notes for each module:
 
 ```bash
-git clone https://github.com/atikurrajib/data-structures-and-algorithms.git
+git clone https://github.com/atikurajib/data-structures-and-algorithms.git
 cd data-structures-and-algorithms
